@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+
+data/deeplure_raw/
+
+outputs/embeddings/
+checkpoints/
+

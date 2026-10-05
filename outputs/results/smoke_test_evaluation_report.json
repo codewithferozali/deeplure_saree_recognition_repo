@@ -1,0 +1,41 @@
+{
+  "retrieval_metrics": {
+    "num_queries": 6.0,
+    "gallery_size": 2.0,
+    "MRR": 0.9166666666666666,
+    "mAP": 0.9166666666666666,
+    "Recall@1": 0.8333333333333334,
+    "Top_1_Accuracy": 0.8333333333333334,
+    "Recall@5": 1.0,
+    "Top_5_Accuracy": 1.0,
+    "Recall@10": 1.0,
+    "Top_10_Accuracy": 1.0
+  },
+  "color_invariance_diagnostic": {
+    "Same Design / Same Color": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "count": 0
+    },
+    "Same Design / Different Color": {
+      "mean": 0.8669171684937511,
+      "std": 0.04945021468763194,
+      "median": 0.8697394132614136,
+      "count": 417
+    },
+    "Different Design / Same Color": {
+      "mean": 0.8790113197432624,
+      "std": 0.010064267183983889,
+      "median": 0.8884723782539368,
+      "count": 81
+    },
+    "Different Design / Different Color": {
+      "mean": 0.8020253431987002,
+      "std": 0.0295903218502631,
+      "median": 0.8063486814498901,
+      "count": 502
+    }
+  },
+  "operating_threshold": 0.852462311557789
+}
